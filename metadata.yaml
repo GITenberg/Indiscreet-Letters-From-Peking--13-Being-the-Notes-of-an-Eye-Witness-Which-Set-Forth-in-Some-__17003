@@ -1,0 +1,34 @@
+_repo: Indiscreet-Letters-From-Peking--13-Being-the-Notes-of-an-Eye-Witness-Which-Set-Forth-in-Some-__17003
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Putnam Weale, B. L. (Bertram Lenox)
+    aliases:
+    - Simpson, Bertram Lenox
+    - Weale, B. L. Putnam (Bertram Lenox Putnam)
+    - Weale, Bertram Lenox Putnam
+    birthdate: 1877
+    deathdate: 1930
+    gutenberg_agent_id: '5484'
+    url: http://www.gutenberg.org/2009/agents/5484
+    wikipedia: http://en.wikipedia.org/wiki/Bertram_Lenox_Simpson
+description: ''
+gutenberg_issued: '2005-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beijing (China) -- History -- Siege, 1900 -- Personal narratives'
+- !lcc 'DS'
+- !lcsh 'Putnam Weale, B. L. (Bertram Lenox), 1877-1930 -- Correspondence'
+title: "Indiscreet Letters From Peking\r\nBeing the Notes of an Eye-Witness, Which\
+  \ Set Forth in Some Detail, from Day to Day, the Real Story of the Siege and Sack\
+  \ of a Distressed Capital in 1900—The Year of Great Tribulation"
+url: http://www.gutenberg.org/ebooks/17003
